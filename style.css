@@ -307,7 +307,7 @@ button.next:hover{
 
 @media (max-width: 400px) {
   :root {
-    --scroll-offset: 250px;
+    --scroll-offset: 220px;
   }
   header {
     padding: 10px 0;
